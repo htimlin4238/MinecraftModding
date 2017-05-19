@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "facing=down":  { "model": "htm:placerblock", "x": 90 },
+        "facing=up":    { "model": "htm:placerblock", "x": 270 },
+        "facing=north": { "model": "htm:placerblock" },
+        "facing=south": { "model": "htm:placerblock", "y": 180 },
+        "facing=west":  { "model": "htm:placerblock", "y": 270 },
+        "facing=east":  { "model": "htm:placerblock", "y": 90 }
+    }
+}
